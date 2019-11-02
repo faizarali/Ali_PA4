@@ -1,0 +1,7 @@
+hi - 3
+what - 1
+four - 1
+one - 2
+hello - 3
+ten - 1
+two - 1
